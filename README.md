@@ -39,9 +39,6 @@ This project follows a structured data management process to create a comprehens
 ## Conclusion
 This project provides a data-driven tool to assist football clubs in identifying pricing inefficiencies and supporting informed transfer strategies by offering an objective perspective on player valuation.
 
----
 
-## How to Run
-*(Here you can add instructions if you want to share code, e.g. environment setup, running scripts, etc.)*
 
 
